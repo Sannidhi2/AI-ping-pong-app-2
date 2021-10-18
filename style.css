@@ -1,0 +1,39 @@
+.heading
+{
+    width:100%;
+    text-align:left;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+    font-size:17px;
+}
+#start,#status,#restart
+{
+    font-size: 23px;
+}
+body{
+    background-size:cover;
+    font-family: 'Slabo ', serif;
+}
+.copy_right_footer{
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color:lightblue;
+    line-height: 3;
+    text-align:center;
+}
+.modal-dialog
+{
+    width:70%;;
+}
+h3{
+    font-size:20px;
+    text-align:left;
+    margin-left:20px;
+}
